@@ -1,6 +1,6 @@
 <?php
 
-namespace atmaliance\redis;
+namespace devatmaliance\redis;
 
 use yii\redis\Connection;
 
