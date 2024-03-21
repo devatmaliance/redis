@@ -3,7 +3,7 @@
   "type": "library",
   "autoload": {
     "psr-4": {
-      "Devatmaliance\\redis\\": "src/"
+      "Devatmaliance\\Redis\\": "src/"
     }
   },
   "authors": [
