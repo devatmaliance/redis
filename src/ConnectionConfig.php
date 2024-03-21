@@ -1,6 +1,6 @@
 <?php
 
-namespace devatmaliance\redis;
+namespace Devatmaliance\Redis;
 
 class ConnectionConfig
 {
